@@ -1,0 +1,27 @@
+{
+  "name": "parcel-plugin-lazyload-hbs",
+  "version": "0.0.1",
+  "description": "Parcel plugin to support data-src, data-srcset, data-bg and data-background-image for handlebars",
+  "main": "./index.js",
+  "keywords": [
+    "parcel",
+    "lazy",
+    "lazyload",
+    "vanilla-lazyload",
+    "images",
+    "data-src",
+    "data-srcset",
+    "data-bg",
+    "data-background-image",
+    "hbs"
+  ],
+  "author": "Kamil Kolodynski",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Trunk89/parcel-plugin-lazyload-hbs.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "parcel-plugin-handlebars": "^0.4.4"
+  }
+}
