@@ -1,6 +1,6 @@
 {
   "name": "parcel-plugin-lazyload-hbs",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Parcel plugin to support data-src, data-srcset, data-bg and data-background-image for handlebars",
   "main": "./index.js",
   "keywords": [
